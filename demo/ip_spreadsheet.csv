@@ -1,0 +1,21 @@
+IP Address,Hostname,Environment,Owner,Status,Notes
+10.100.10.1,gateway,prod,network-team,ACTIVE,
+10.100.10.2,dns-primary,prod,network-team,ACTIVE,
+10.100.10.3,dns-secondary,prod,network-team,ACTIVE,
+10.100.10.4,web-frontend,prod,app-team,ACTIVE,
+10.100.10.5,old-erp,prod,finance,UNKNOWN,"DELETE AFTER MARCH"
+10.100.10.6,app-server-01,dev,dev-team,ACTIVE,
+10.100.10.7,app-server-02,dev,dev-team,ACTIVE,"or is it staging?"
+10.100.10.8,monitoring,prod,ops-team,ACTIVE,
+10.100.10.9,test-db,staging,qa-team,CONFLICT,"conflicting entry in other sheet"
+10.100.10.10,,,,FREE,
+10.100.10.11,jenkins,prod,devops,ACTIVE,"moved to container — still need this?"
+10.100.10.12,old-backup,prod,ops-team,DECOMMISSIONED,"Jim said delete but no ticket"
+10.100.10.13,,,,FREE,"reserved for Maria — verbal agreement"
+10.100.10.14,vpn-concentrator,prod,security,ACTIVE,
+10.100.10.15,printer-3rd-floor,prod,facilities,ACTIVE,"does this floor still exist?"
+10.100.10.16,,,,FREE,
+10.100.10.17,mystery-box,unknown,unknown,UNKNOWN,"nobody knows what this is"
+10.100.10.18,app-server-03,prod,dev-team,ACTIVE,
+10.100.10.19,,,,FREE,"Alex said he needs this next week (3 months ago)"
+10.100.10.20,legacy-api,prod,app-team,ACTIVE,"migrated? maybe? check with Tom"
